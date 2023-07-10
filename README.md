@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pranay Satija</h1>
-<img align="right" alt="coding" width="400" src="[image](https://github.com/ipranaysatija/ipranaysatija/assets/91721682/a561e198-e100-4765-9f6a-6eb6e0e351b8)
+<img align="right" alt="coding" width="400" src="https://github.com/ipranaysatija/ipranaysatija/assets/91721682/a561e198-e100-4765-9f6a-6eb6e0e351b8)
 "
 <h3 align="center">A passionate electronics engineer from India</h3>
 
