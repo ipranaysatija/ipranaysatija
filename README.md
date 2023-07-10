@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranaysatija&label=Profile%20views&color=0e75b6&style=flat" alt="ipranaysatija" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipranaysatija" alt="ipranaysatija" /></a> </p>
-
 - 🔭 I’m currently working on **Autonomous Vehicle**
 
 - 📫 How to reach me **pranaysatija01@gmail.com**
