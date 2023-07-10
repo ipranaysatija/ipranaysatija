@@ -1,6 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Pranay Satija</h1>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/ipranaysatija/ipranaysatija/assets/91721682/108c5307-09b9-4bd1-b753-ba356dc0a993)
+"
 <h3 align="center">A passionate electronics engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranaysatija&label=Profile%20views&color=0e75b6&style=flat" alt="ipranaysatija" /> </p>
