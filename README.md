@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pranaysatija01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cK_X_CkqIzcsrDKWMJn84cVvk9_GcehO/view?usp=sharing](https://drive.google.com/file/d/1cK_X_CkqIzcsrDKWMJn84cVvk9_GcehO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b2YDJ6mnWhN_WNNTrKKVPxPkrFQEJG6g/view?usp=sharing](https://drive.google.com/file/d/1b2YDJ6mnWhN_WNNTrKKVPxPkrFQEJG6g/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
